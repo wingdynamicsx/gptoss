@@ -165,7 +165,7 @@ The convergence of open-source AI and financial markets through GPT-OSS represen
 - PersonQA Hallucination Rate: 49% (GPT-OSS-120B) vs 16% (o1)
 
 **Financial Services Context:**
-- CNBC: "JPMorgan Chase is giving its employees an AI assistant powered by ChatGPT maker OpenAI" (August 2024)
-- JPMorgan participation in OpenAI's $4B credit facility (October 2024)
+- Vanguard: "Incorporating AI into our day-to-day" - https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/incorporating-ai-into-day-to-day.html
+- Vanguard: "Vanguard announces strategic AI research partnership" - https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/vanguard-announces-strategic-ai-partnership.html
 
 Note: All benchmarks and specifications are from OpenAI's official August 2025 release. Financial markets applications are based on documented capabilities and industry adoption patterns.
